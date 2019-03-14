@@ -1,0 +1,19 @@
+/* How to center things: https://www.w3.org/Style/Examples/007/center.en.html */
+#meat {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 510pt; /* about the same as printed paper */
+}
+#profile {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 200px;
+}
+.links {
+    margin-top: 10px;
+    text-align: center;
+}
+.link {
+    margin: 10px;
+}
